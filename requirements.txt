@@ -1,0 +1,35 @@
+# Système de Recrutement Automatisé - Dépendances
+# Interface utilisateur et framework principal
+streamlit
+
+# Manipulation de données
+pandas
+numpy
+
+# Traitement de texte et NLP
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+
+# Traitement des fichiers
+PyPDF2
+python-docx
+
+# Visualisations
+plotly
+
+# Utilitaires
+python-dateutil
+
+# Optionnel - pour améliorer les performances NLP
+spacy
+sentence-transformers
+transformers
+
+# Optionnel - pour base de données
+# sqlite3 (inclus dans Python)
+sqlalchemy
+
+# Optionnel - pour export avancé
+openpyxl
+reportlab
